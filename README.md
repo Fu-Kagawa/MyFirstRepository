@@ -1,3 +1,3 @@
 # MyFirstRepository
-はじめてのリポジトリ
+はじめてのリポジトリ修正
 ## codespace 変更
